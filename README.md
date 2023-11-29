@@ -1,4 +1,13 @@
 
+
+### TECNOLOGIAS E FERRAMENTAS DO MEU DIA A DIA
+
+
+### ESTUDO DE NOVAS TECNOLOGIAS
+
+
+### ESTATÍSTICAS DO MEU GITHUB
+
 ![Rodrigo Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=rjlconsultoria&show_icons=true&theme=dark)
 
 ### TECNOLOGIAS
@@ -11,6 +20,5 @@
 ### LINGUAGENS UTILIZADAS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjlconsultoria&hide_progress=true)
 
-
-
+### REDES SOCIAIS
 
