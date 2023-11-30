@@ -8,7 +8,7 @@ I turn coffee into Code
 
 * 🌍  I'm based in Berlin , Germany
 * 🖥️  See my portfolio at [My website](http://github.com/rjlconsultoria)
-* ✉️  You can contact me at [contactme@contact.com](mailto:contactme@contact.com)
+* ✉️  You can contact me at [contactme@contact.com](mailto:contato@rjlconsultoria.com.br)
 * 🚀  I'm currently working on [AWS Migration](http://aws.amazon.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Other AWS Migration
