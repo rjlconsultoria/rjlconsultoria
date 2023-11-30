@@ -36,3 +36,4 @@ I turn coffee into Code
 
 <a href="https://github.com/rjlconsultoria" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjlconsultoria&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rjlconsultoria&bg_color=000000&color=c0d3c2&line=4c9e4f&point=38cc3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
